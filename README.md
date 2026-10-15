@@ -21,7 +21,10 @@ Full curriculum visual reference:
 | # | Module | Topics | Notebook |
 |---|--------|--------|---------|
 | 01 | Introduction | What is Deep Learning, Roles & Responsibilities, Impact on Product Development, Deep Learning vs Traditional ML | [Chapter 01](Module-01-Introduction/Chapter-01-Introduction.ipynb) |
-| 02 | Mathematics for Deep Learning | Linear Algebra, Calculus & Differentiation, Probability & Statistics, Information Theory | [Chapter 02](Module-02-Mathematics/Chapter-02-Mathematics.ipynb) |
+| 02.1 | Linear Algebra | Scalars, Vectors, Matrices, Tensors, MatMul, Dot Products, Transpose, Inverses, Eigenvalues, Norms | [Chapter 02.1](Module-02-Mathematics/Chapter-02.1-Linear-Algebra.ipynb) |
+| 02.2 | Calculus & Differentiation | Derivatives, Partial Derivatives, Chain Rule, Gradients, Steepest Descent, Autograd Graphs | [Chapter 02.2](Module-02-Mathematics/Chapter-02.2-Calculus-and-Differentiation.ipynb) |
+| 02.3 | Probability & Statistics | Distributions (Gaussian, Bernoulli, Uniform), Mean/Var/Std, Normalization, Bayes' Theorem, MLE, KL Divergence | [Chapter 02.3](Module-02-Mathematics/Chapter-02.3-Probability-and-Statistics.ipynb) |
+| 02.4 | Information Theory Basics | Shannon Entropy, Cross-Entropy Loss, Equivalence of Cross-Entropy and Negative Log-Likelihood | [Chapter 02.4](Module-02-Mathematics/Chapter-02.4-Information-Theory-Basics.ipynb) |
 | 03 | *(coming soon)* | Python & Scientific Stack | — |
 
 ---

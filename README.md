@@ -48,10 +48,12 @@ flowchart TD
 | **2.4** | **Information Theory Basics** | Shannon Entropy, Cross-Entropy Loss, Equivalence of Cross-Entropy and Negative Log-Likelihood | [Chapter 2.4](Module-02-Mathematics/Chapter-02.4-Information-Theory-Basics.ipynb) |
 | **3.1** | **NumPy for Deep Learning** | Arrays vs Python Lists, Memory Layout, Strides, Broadcasting, SIMD Vectorization, Slicing & Stacking | [Chapter 3.1](Module-03-Scientific-Stack/Chapter-03.1-NumPy.ipynb) |
 | **3.2** | **Pandas for Tabular DL** | DataFrames & Series, Missing Value Imputation, GroupBy & Merging, Feature Engineering, PyTorch Export | [Chapter 3.2](Module-03-Scientific-Stack/Chapter-03.2-Pandas.ipynb) |
+| **3.3** | **Matplotlib & Seaborn** | Training/Val Loss Curves, Overfitting Diagnosis, Distribution KDEs, Correlation Heatmaps, Confusion Matrices, Image Grids | [Chapter 3.3](Module-03-Scientific-Stack/Chapter-03.3-Matplotlib-and-Seaborn.ipynb) |
 | **4.1** | **Core ML Concepts** | Learning Paradigms (Supervised, Unsupervised, Self-Supervised), Bias-Variance Tradeoff, Train/Val/Test Splits, K-Fold CV, Metrics (Accuracy, Precision, Recall, F1, ROC-AUC) | [Chapter 4.1](Module-04-Machine-Learning/Chapter-04.1-Core-ML-Concepts.ipynb) |
-| **4.2** | Classical Algorithms | Baselines for DL, Linear Regression (OLS & GD), Logistic Regression, Decision Trees (Entropy & Gini), Random Forests, Gradient Boosting (XGBoost / LightGBM) | *Coming soon* |
+| **4.2** | **Classical Algorithms** | Baselines for DL, Linear Regression (OLS & GD), Logistic Regression, Decision Trees (Entropy & Gini), Random Forests, Gradient Boosting (XGBoost / LightGBM) | [Chapter 4.2](Module-04-Machine-Learning/Chapter-04.2-Classical-Algorithms.ipynb) |
 | **4.3** | Unsupervised Learning | K-Means Clustering (Centroid updates & Elbow method), Principal Component Analysis (PCA, SVD, Explained Variance) | *Coming soon* |
 | **4.4** | Feature Engineering | Categorical Encodings (One-Hot, Target, Ordinal), Normalization vs Standardization, Handling Imbalance (SMOTE, Class Weights) | *Coming soon* |
+| **5** | Neural Networks from Scratch | Perceptron, Multi-Layer Perceptron (MLP), Activation Functions (ReLU, GELU, SiLU), Backprop, Optimizers | *Coming soon* |
 | **6** | PyTorch from Scratch | Tensor operations, GPU acceleration, Autograd tape, `nn.Module`, DataLoaders, Training Loop | *Coming soon* |
 | **7** | Regularization & Training | Dropout, Weight Decay (L1/L2), Weight Initialization (He/Xavier), BatchNorm, LR Schedules, Augmentation | *Coming soon* |
 | **8** | Convolutional Networks (CNNs) | Convolutions, Kernels, Padding/Stride, Pooling, Classic CNNs (LeNet to ResNet), Skip Connections, Transfer Learning | *Coming soon* |

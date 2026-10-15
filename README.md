@@ -47,8 +47,8 @@ flowchart TD
 | **2.3** | **Probability & Statistics** | Gaussian/Bernoulli/Uniform Distributions, Mean/Var/Std, Normalization, Bayes' Theorem, MLE, KL Divergence | [Chapter 2.3](Module-02-Mathematics/Chapter-02.3-Probability-and-Statistics.ipynb) |
 | **2.4** | **Information Theory Basics** | Shannon Entropy, Cross-Entropy Loss, Equivalence of Cross-Entropy and Negative Log-Likelihood | [Chapter 2.4](Module-02-Mathematics/Chapter-02.4-Information-Theory-Basics.ipynb) |
 | **3.1** | **NumPy for Deep Learning** | Arrays vs Python Lists, Memory Layout, Strides, Broadcasting, SIMD Vectorization, Slicing & Stacking | [Chapter 3.1](Module-03-Scientific-Stack/Chapter-03.1-NumPy.ipynb) |
-| **3.2** | Pandas for Tabular DL | DataFrames, Missing Values, Feature Engineering, Pipelines | *Coming soon* |
-| **3.3** | Matplotlib & Seaborn | Loss Curves, Confusion Matrices, Image Display, Distribution Plots | *Coming soon* |
+| **3.2** | **Pandas for Tabular DL** | DataFrames & Series, Missing Value Imputation, GroupBy & Merging, Feature Engineering, PyTorch Export | [Chapter 3.2](Module-03-Scientific-Stack/Chapter-03.2-Pandas.ipynb) |
+| **3.3** | **Matplotlib & Seaborn** | Training/Val Loss Curves, Overfitting Diagnosis, Distribution KDEs, Correlation Heatmaps, Confusion Matrices, Image Grids | [Chapter 3.3](Module-03-Scientific-Stack/Chapter-03.3-Matplotlib-and-Seaborn.ipynb) |
 | **4** | Machine Learning Foundations | Bias-Variance tradeoff, Train/Val/Test splits, Baselines (Linear/Logistic Reg, Trees, XGBoost), PCA, Metrics | *Coming soon* |
 | **5** | Neural Networks from Scratch | Perceptron, Multi-Layer Perceptron (MLP), Activation Functions (ReLU, GELU, SiLU), Backprop, Optimizers | *Coming soon* |
 | **6** | PyTorch from Scratch | Tensor operations, GPU acceleration, Autograd tape, `nn.Module`, DataLoaders, Training Loop | *Coming soon* |

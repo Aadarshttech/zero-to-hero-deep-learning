@@ -1,51 +1,47 @@
-# 🤖 Zero to Hero — AI Engineer
+# Zero to Hero — Deep Learning
 
-> A structured, chapter-by-chapter learning notebook following the [roadmap.sh AI Engineer Roadmap](https://roadmap.sh/ai-engineer).
+> A structured, chapter-by-chapter learning path following the [roadmap.sh Deep Learning Roadmap](https://roadmap.sh).
 
-Each module is a **Jupyter Notebook** (.ipynb) combining:
-- 📝 Markdown notes — concepts, definitions, explanations
-- 💻 Code cells — hands-on examples (where applicable)
-
----
-
-## 🗺️ Roadmap
-
-The full AI Engineer roadmap from roadmap.sh:
-
-![AI Engineer Roadmap](assets/roadmap.png)
+Each module is a Jupyter Notebook (`.ipynb`) combining:
+- Markdown notes — core concepts, definitions, intuitive explanations, and real-world analogies
+- Code cells — practical hands-on examples and experiments (where applicable)
 
 ---
 
-## 📚 Modules
+## Roadmap Overview
+
+Full curriculum visual reference:
+
+![Deep Learning Roadmap](assets/roadmap.png)
+
+---
+
+## Modules
 
 | # | Module | Topics | Notebook |
 |---|--------|--------|---------|
-| 01 | Introduction | What is an AI Engineer, Roles & Responsibilities, Impact on Product Development, AI Engineer vs ML Engineer | [Chapter 01](Module-01-Introduction/Chapter-01-Introduction.ipynb) |
+| 01 | Introduction | What is Deep Learning, Roles & Responsibilities, Impact on Product Development, Deep Learning vs Traditional ML | [Chapter 01](Module-01-Introduction/Chapter-01-Introduction.ipynb) |
 | 02 | *(coming soon)* | — | — |
 
 ---
 
-## 🚀 How to Use
+## Getting Started
 
 ```bash
-# Clone the repo
+# Clone the repository
 git clone https://github.com/Aadarshttech/zero-to-hero-ai-engineer.git
 cd zero-to-hero-ai-engineer
 
-# Install Jupyter
+# Set up environment & Jupyter
 pip install jupyter
 
-# Launch
+# Launch notebook interface
 jupyter notebook
 ```
 
 ---
 
-## 🧭 Learning Philosophy
+## Learning Philosophy
 
-> **Notes first. Code second.**
-> Every module starts with a deep conceptual understanding before touching any code.
-
----
-
-*Built with ❤️ by Aadarshttech — following the roadmap.sh AI Engineer path.*
+> **Notes first. Code second.**  
+> Every module starts with deep conceptual intuition before touching any code implementation.

@@ -50,7 +50,9 @@ Visual reference:
 | **02.2** | **Calculus & Differentiation** | Derivatives, Partial Derivatives, Chain Rule, Gradients, Steepest Descent, Autograd Graphs | [Chapter 02.2](Module-02-Mathematics/Chapter-02.2-Calculus-and-Differentiation.ipynb) |
 | **02.3** | **Probability & Statistics** | Gaussian/Bernoulli/Uniform Distributions, Mean/Var/Std, Normalization, Bayes' Theorem, MLE, KL Divergence | [Chapter 02.3](Module-02-Mathematics/Chapter-02.3-Probability-and-Statistics.ipynb) |
 | **02.4** | **Information Theory Basics** | Shannon Entropy, Cross-Entropy Loss, Equivalence of Cross-Entropy and Negative Log-Likelihood | [Chapter 02.4](Module-02-Mathematics/Chapter-02.4-Information-Theory-Basics.ipynb) |
-| **03** | Python & Scientific Stack | NumPy internals, vectorization, Pandas DataFrames, Matplotlib/Seaborn visualization | *Coming soon* |
+| **03.1** | **NumPy for Deep Learning** | Arrays vs Python Lists, Memory Layout, Strides, Broadcasting, SIMD Vectorization, Slicing & Stacking | [Chapter 03.1](Module-03-Scientific-Stack/Chapter-03.1-NumPy.ipynb) |
+| **03.2** | Pandas for Tabular DL | DataFrames, Missing Values, Feature Engineering, Pipelines | *Coming soon* |
+| **03.3** | Matplotlib & Seaborn | Loss Curves, Confusion Matrices, Image Display, Distribution Plots | *Coming soon* |
 | **04** | Machine Learning Foundations | Bias-Variance tradeoff, Train/Val/Test splits, Baselines (Linear/Logistic Reg, Trees, XGBoost), PCA, Metrics | *Coming soon* |
 | **05** | Neural Networks from Scratch | Perceptron, Multi-Layer Perceptron (MLP), Activation Functions (ReLU, GELU, SiLU), Backprop, Optimizers | *Coming soon* |
 | **06** | PyTorch from Scratch | Tensor operations, GPU acceleration, Autograd tape, `nn.Module`, DataLoaders, Training Loop | *Coming soon* |

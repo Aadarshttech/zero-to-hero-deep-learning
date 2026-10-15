@@ -50,7 +50,6 @@ Every notebook must start with a title cell containing:
 
 > **Learning Path:** Zero to Hero — AI Engineer
 > **Module:** XX of 18
-> **Source:** [roadmap.sh/ai-engineer](https://roadmap.sh/ai-engineer)
 > **Topics:** [Topic 1], [Topic 2], [Topic 3]...
 > **Format:** Notes first → Code second
 

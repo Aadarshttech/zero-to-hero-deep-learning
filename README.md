@@ -51,7 +51,7 @@ flowchart TD
 | **3.3** | **Matplotlib & Seaborn** | Training/Val Loss Curves, Overfitting Diagnosis, Distribution KDEs, Correlation Heatmaps, Confusion Matrices, Image Grids | [Chapter 3.3](Module-03-Scientific-Stack/Chapter-03.3-Matplotlib-and-Seaborn.ipynb) |
 | **4.1** | **Core ML Concepts** | Learning Paradigms (Supervised, Unsupervised, Self-Supervised), Bias-Variance Tradeoff, Train/Val/Test Splits, K-Fold CV, Metrics (Accuracy, Precision, Recall, F1, ROC-AUC) | [Chapter 4.1](Module-04-Machine-Learning/Chapter-04.1-Core-ML-Concepts.ipynb) |
 | **4.2** | **Classical Algorithms** | Baselines for DL, Linear Regression (OLS & GD), Logistic Regression, Decision Trees (Entropy & Gini), Random Forests, Gradient Boosting (XGBoost / LightGBM) | [Chapter 4.2](Module-04-Machine-Learning/Chapter-04.2-Classical-Algorithms.ipynb) |
-| **4.3** | Unsupervised Learning | K-Means Clustering (Centroid updates & Elbow method), Principal Component Analysis (PCA, SVD, Explained Variance) | *Coming soon* |
+| **4.3** | **Unsupervised Learning** | K-Means Clustering (Centroid updates & Elbow method), Principal Component Analysis (PCA, SVD, Explained Variance) | [Chapter 4.3](Module-04-Machine-Learning/Chapter-04.3-Unsupervised-Learning.ipynb) |
 | **4.4** | Feature Engineering | Categorical Encodings (One-Hot, Target, Ordinal), Normalization vs Standardization, Handling Imbalance (SMOTE, Class Weights) | *Coming soon* |
 | **5** | Neural Networks from Scratch | Perceptron, Multi-Layer Perceptron (MLP), Activation Functions (ReLU, GELU, SiLU), Backprop, Optimizers | *Coming soon* |
 | **6** | PyTorch from Scratch | Tensor operations, GPU acceleration, Autograd tape, `nn.Module`, DataLoaders, Training Loop | *Coming soon* |

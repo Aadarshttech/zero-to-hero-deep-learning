@@ -29,8 +29,8 @@ Full curriculum visual reference:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Aadarshttech/zero-to-hero-ai-engineer.git
-cd zero-to-hero-ai-engineer
+git clone https://github.com/Aadarshttech/zero-to-hero-deep-learning.git
+cd zero-to-hero-deep-learning
 
 # Set up environment & Jupyter
 pip install jupyter

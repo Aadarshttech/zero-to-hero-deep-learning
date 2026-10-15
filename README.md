@@ -35,30 +35,26 @@ flowchart TD
     M17 --> M18["18: Ethics, Safety & Explainability"]
 ```
 
-Visual reference:
-
-![Deep Learning Roadmap](assets/roadmap.png)
-
 ---
 
 ## Modules & Progress
 
 | # | Module | Key Topics | Status / Notebook |
 |:---:|---|---|:---:|
-| **01** | **Introduction to Deep Learning** | What is DL, Roles & Responsibilities, Product Impact, DL vs Traditional ML | [Chapter 01](Module-01-Introduction/Chapter-01-Introduction.ipynb) |
-| **02.1** | **Linear Algebra** | Scalars, Vectors, Matrices, Tensors, MatMul, Dot Products, Transpose, Inverses, Eigenvalues, L1/L2 Norms | [Chapter 02.1](Module-02-Mathematics/Chapter-02.1-Linear-Algebra.ipynb) |
-| **02.2** | **Calculus & Differentiation** | Derivatives, Partial Derivatives, Chain Rule, Gradients, Steepest Descent, Autograd Graphs | [Chapter 02.2](Module-02-Mathematics/Chapter-02.2-Calculus-and-Differentiation.ipynb) |
-| **02.3** | **Probability & Statistics** | Gaussian/Bernoulli/Uniform Distributions, Mean/Var/Std, Normalization, Bayes' Theorem, MLE, KL Divergence | [Chapter 02.3](Module-02-Mathematics/Chapter-02.3-Probability-and-Statistics.ipynb) |
-| **02.4** | **Information Theory Basics** | Shannon Entropy, Cross-Entropy Loss, Equivalence of Cross-Entropy and Negative Log-Likelihood | [Chapter 02.4](Module-02-Mathematics/Chapter-02.4-Information-Theory-Basics.ipynb) |
-| **03.1** | **NumPy for Deep Learning** | Arrays vs Python Lists, Memory Layout, Strides, Broadcasting, SIMD Vectorization, Slicing & Stacking | [Chapter 03.1](Module-03-Scientific-Stack/Chapter-03.1-NumPy.ipynb) |
-| **03.2** | Pandas for Tabular DL | DataFrames, Missing Values, Feature Engineering, Pipelines | *Coming soon* |
-| **03.3** | Matplotlib & Seaborn | Loss Curves, Confusion Matrices, Image Display, Distribution Plots | *Coming soon* |
-| **04** | Machine Learning Foundations | Bias-Variance tradeoff, Train/Val/Test splits, Baselines (Linear/Logistic Reg, Trees, XGBoost), PCA, Metrics | *Coming soon* |
-| **05** | Neural Networks from Scratch | Perceptron, Multi-Layer Perceptron (MLP), Activation Functions (ReLU, GELU, SiLU), Backprop, Optimizers | *Coming soon* |
-| **06** | PyTorch from Scratch | Tensor operations, GPU acceleration, Autograd tape, `nn.Module`, DataLoaders, Training Loop | *Coming soon* |
-| **07** | Regularization & Training | Dropout, Weight Decay (L1/L2), Weight Initialization (He/Xavier), BatchNorm, LR Schedules, Augmentation | *Coming soon* |
-| **08** | Convolutional Networks (CNNs) | Convolutions, Kernels, Padding/Stride, Pooling, Classic CNNs (LeNet to ResNet), Skip Connections, Transfer Learning | *Coming soon* |
-| **09** | Sequence Modeling & RNNs | Sequential data, RNNs, Backprop Through Time (BPTT), LSTMs, GRUs, Seq2Seq, Attention mechanism | *Coming soon* |
+| **1** | **Introduction to Deep Learning** | What is DL, Roles & Responsibilities, Product Impact, DL vs Traditional ML | [Chapter 1](Module-01-Introduction/Chapter-01-Introduction.ipynb) |
+| **2.1** | **Linear Algebra** | Scalars, Vectors, Matrices, Tensors, MatMul, Dot Products, Transpose, Inverses, Eigenvalues, L1/L2 Norms | [Chapter 2.1](Module-02-Mathematics/Chapter-02.1-Linear-Algebra.ipynb) |
+| **2.2** | **Calculus & Differentiation** | Derivatives, Partial Derivatives, Chain Rule, Gradients, Steepest Descent, Autograd Graphs | [Chapter 2.2](Module-02-Mathematics/Chapter-02.2-Calculus-and-Differentiation.ipynb) |
+| **2.3** | **Probability & Statistics** | Gaussian/Bernoulli/Uniform Distributions, Mean/Var/Std, Normalization, Bayes' Theorem, MLE, KL Divergence | [Chapter 2.3](Module-02-Mathematics/Chapter-02.3-Probability-and-Statistics.ipynb) |
+| **2.4** | **Information Theory Basics** | Shannon Entropy, Cross-Entropy Loss, Equivalence of Cross-Entropy and Negative Log-Likelihood | [Chapter 2.4](Module-02-Mathematics/Chapter-02.4-Information-Theory-Basics.ipynb) |
+| **3.1** | **NumPy for Deep Learning** | Arrays vs Python Lists, Memory Layout, Strides, Broadcasting, SIMD Vectorization, Slicing & Stacking | [Chapter 3.1](Module-03-Scientific-Stack/Chapter-03.1-NumPy.ipynb) |
+| **3.2** | Pandas for Tabular DL | DataFrames, Missing Values, Feature Engineering, Pipelines | *Coming soon* |
+| **3.3** | Matplotlib & Seaborn | Loss Curves, Confusion Matrices, Image Display, Distribution Plots | *Coming soon* |
+| **4** | Machine Learning Foundations | Bias-Variance tradeoff, Train/Val/Test splits, Baselines (Linear/Logistic Reg, Trees, XGBoost), PCA, Metrics | *Coming soon* |
+| **5** | Neural Networks from Scratch | Perceptron, Multi-Layer Perceptron (MLP), Activation Functions (ReLU, GELU, SiLU), Backprop, Optimizers | *Coming soon* |
+| **6** | PyTorch from Scratch | Tensor operations, GPU acceleration, Autograd tape, `nn.Module`, DataLoaders, Training Loop | *Coming soon* |
+| **7** | Regularization & Training | Dropout, Weight Decay (L1/L2), Weight Initialization (He/Xavier), BatchNorm, LR Schedules, Augmentation | *Coming soon* |
+| **8** | Convolutional Networks (CNNs) | Convolutions, Kernels, Padding/Stride, Pooling, Classic CNNs (LeNet to ResNet), Skip Connections, Transfer Learning | *Coming soon* |
+| **9** | Sequence Modeling & RNNs | Sequential data, RNNs, Backprop Through Time (BPTT), LSTMs, GRUs, Seq2Seq, Attention mechanism | *Coming soon* |
 | **10** | The Transformer Architecture | Scaled Dot-Product Attention, Multi-Head Attention, Positional Encodings (RoPE), Full Transformer Block | *Coming soon* |
 | **11** | NLP with Deep Learning | Tokenization (BPE), Word Embeddings (Word2Vec), Language Modeling, BERT vs GPT, Modern NLP tasks | *Coming soon* |
 | **12** | LLMs & Fine-Tuning | Pre-training dynamics, Scaling laws, SFT, RLHF, DPO, PEFT (LoRA, QLoRA), INT8/INT4 Quantization | *Coming soon* |

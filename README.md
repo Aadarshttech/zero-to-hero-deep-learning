@@ -21,7 +21,8 @@ Full curriculum visual reference:
 | # | Module | Topics | Notebook |
 |---|--------|--------|---------|
 | 01 | Introduction | What is Deep Learning, Roles & Responsibilities, Impact on Product Development, Deep Learning vs Traditional ML | [Chapter 01](Module-01-Introduction/Chapter-01-Introduction.ipynb) |
-| 02 | *(coming soon)* | — | — |
+| 02 | Mathematics for Deep Learning | Linear Algebra, Calculus & Differentiation, Probability & Statistics, Information Theory | [Chapter 02](Module-02-Mathematics/Chapter-02-Mathematics.ipynb) |
+| 03 | *(coming soon)* | Python & Scientific Stack | — |
 
 ---
 
